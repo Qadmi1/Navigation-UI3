@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UI/UX3-Navigation</string>
+    <string name="title_top">Top Level Fragment</string>
+    
+    <string-array name="PageThree">
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Oisin</item>
+        <item>Oisin</item>
+        <item>Programming Languages</item>
+    </string-array>
+    
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="tick">Accessibility</string>
+
+    <string name="P11">Oisin</string>
+    <string name="P12">hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\n
+    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</string>
+
+    <string name="P21">Oisin</string>
+    <string name="P22">gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg\n
+    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</string>
+</resources>
